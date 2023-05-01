@@ -1,1 +1,3 @@
-test
+{'data': [
+  {'SUBJECT_NAME': 'Информатика и ИКТ', 'TEACHER_NAME': 'Бебрикова', 'LESSON_NUMBER': 1, 'LESSON_TIME_BEGIN': '08:00', 'LESSON_TIME_END': '08:40', 'TOPIC': None, 'HOMEWORK_PREVIOUS': None, 'MARKS': [], 'ABSENCE': [], 'NOTES': []}
+]}
