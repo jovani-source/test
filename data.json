@@ -1,1 +1,4 @@
-{"data": [{"SUBJECT_NAME": "Информатика и ИКТ", "TEACHER_NAME": "Бебрикова", "LESSON_NUMBER": 1, "LESSON_TIME_BEGIN": "08:00", "LESSON_TIME_END": "08:40", "TOPIC": null, "HOMEWORK_PREVIOUS": null, "MARKS": [], "NOTES": []}]}
+{"data": [
+  {"SUBJECT_NAME": "Информатика и ИКТ", "TEACHER_NAME": "Бебрикова", "LESSON_NUMBER": 1, "LESSON_TIME_BEGIN": "08:00", "LESSON_TIME_END": "08:40", "TOPIC": null, "HOMEWORK_PREVIOUS": null, "MARKS": [], "NOTES": []}
+  ]
+}
