@@ -7,4 +7,5 @@
   {"SUBJECT_NAME": "Английский язык", "TEACHER_NAME": "Селецкая Инна", "LESSON_NUMBER": 6, "LESSON_TIME_BEGIN": "12:00", "LESSON_TIME_END": "12:40", "TOPIC": null, "HOMEWORK_PREVIOUS": null, "MARKS": [], "NOTES": []},
   {"SUBJECT_NAME": "Физическая культура", "TEACHER_NAME": "Протеинов Алексей", "LESSON_NUMBER": 7, "LESSON_TIME_BEGIN": "12:45", "LESSON_TIME_END": "13:25", "TOPIC": null, "HOMEWORK_PREVIOUS": null, "MARKS": [], "NOTES": []}
   ]
+
 }
