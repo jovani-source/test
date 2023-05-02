@@ -10,6 +10,6 @@
 	{"SUBJECT_NAME": "Информатика и ИКТ", "MARKS": [{"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}]},
 	{"SUBJECT_NAME": "Биология", "MARKS": [{"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}]},
 	{"SUBJECT_NAME": "География", "MARKS": [{"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}]},
-	{"SUBJECT_NAME": "Математика", "MARKS": [{"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}]},
+	{"SUBJECT_NAME": "Математика", "MARKS": [{"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}, {"DATE": "01.01.2022", "SHORT_NAME": "4"}, {"DATE": "01.01.2023", "SHORT_NAME": "4"}]},
 	]
 }
